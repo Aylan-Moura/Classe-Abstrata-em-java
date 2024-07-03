@@ -15,7 +15,7 @@ public void settotalVenda (Double totalVenda) {
 	this.totalVenda = totalVenda;
 }
 public Double getTotalComissao() {
-	return totalVenda;
+	return totalComissao;
 }
 public void setTotalComissao (Double totalComissao) {
 	this.totalComissao = totalComissao;
